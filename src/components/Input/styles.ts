@@ -73,7 +73,7 @@ export const Error = styled(Tooltip)`
     color: #fff;
 
     &::before {
-      border-color: #c53030;
+      border-color: #c53030 transparent;
     }
   }
 `;
